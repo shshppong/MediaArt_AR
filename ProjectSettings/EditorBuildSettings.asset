@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/MyXR/Scenes/Main.unity
     guid: e02837d399b6ff64d8ed11076761af6f
   - enabled: 1
-    path: Assets/Scenes/SampleScene2D.unity
+    path: Assets/MyXR/Scenes/SampleScene2D.unity
     guid: 40590a6c1f4400142890a53c24989696
   - enabled: 1
-    path: Assets/Scenes/SampleScene3D.unity
+    path: Assets/MyXR/Scenes/SampleScene3D.unity
     guid: 3d522d2c8942e5442af6e972f64af3c5
+  - enabled: 1
+    path: Assets/MyXR/Scenes/SampleSceneVideo.unity
+    guid: 4dcb81c5a7ffab6499efe220530c4c25
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
